@@ -143,3 +143,4 @@ int number_of_moves(struct game_state start) {
     }
     free_visited();
     return -1;
+}
